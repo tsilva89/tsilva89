@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Silva.
 - 🌱 I’m currently learning HTML5 + CSS + Javascript...
-- 📫 How to reach me: https://www.linkedin.com/in/thiagosilva77/
+- 📫 How to reach me: https://www.linkedin.com/in/thiagosilva89/
 
 <!---
 tsilva89/tsilva89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
